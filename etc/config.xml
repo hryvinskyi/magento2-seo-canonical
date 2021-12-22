@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--
+  ~ Copyright (c) 2021. All rights reserved.
+  ~ @author: Volodymyr Hryvinskyi <mailto:volodymyr@hryvinskyi.com>
+  -->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <hryvinskyi_seo>
+            <canonical>
+                <enabled>1</enabled>
+                <canonical_ignore_url></canonical_ignore_url>
+                <canonical_store_without_store_code>0</canonical_store_without_store_code>
+                <crossdomain>0</crossdomain>
+                <crossdomain_prefer_https>0</crossdomain_prefer_https>
+                <paginated_canonical>0</paginated_canonical>
+                <debug>1</debug>
+            </canonical>
+        </hryvinskyi_seo>
+    </default>
+</config>
