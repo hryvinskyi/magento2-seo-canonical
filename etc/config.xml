@@ -14,7 +14,7 @@
                 <canonical_store_without_store_code>0</canonical_store_without_store_code>
                 <crossdomain>0</crossdomain>
                 <crossdomain_prefer_https>0</crossdomain_prefer_https>
-                <paginated_canonical>0</paginated_canonical>
+                <paginated_canonical>1</paginated_canonical>
                 <debug>1</debug>
             </canonical>
         </hryvinskyi_seo>
